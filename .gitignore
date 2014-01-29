@@ -1,3 +1,6 @@
 .idea
 .vagrant
 src/public
+
+# Emacs backup files
+*~
